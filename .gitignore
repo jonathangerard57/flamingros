@@ -1,0 +1,25 @@
+# Python build artifacts
+__pycache__/
+*.pyc
+*.pyo
+dist/
+build/
+*.spec
+
+# PyInstaller
+FLAMINGROS.exe
+
+# Game data (local saves — not committed)
+game_data.json
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
